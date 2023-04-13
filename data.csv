@@ -1,4 +1,4 @@
-Gender,Age,sleep scores,hour score,use during study score,sum,converted gpa,impact score
+Gender,Age,use before/after sleep,hours used,use during lectures,sum,converted gpa,impact score
 Male,20,2,3,3,8,3,2
 Male,21,3,2,3,8,3.23,2
 Male,21,3,6,5,14,3.36,1
